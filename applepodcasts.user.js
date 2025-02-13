@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name     Apple Podcasts URLs
 // @match    https://podcasts.apple.com/*/podcast/*/id*
+// @license  Apache-2.0
 // ==/UserScript==
 
 // Select the node that will be observed for mutations
