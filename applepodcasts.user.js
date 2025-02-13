@@ -1,7 +1,8 @@
 // ==UserScript==
-// @name     Apple Podcasts URLs
-// @match    https://podcasts.apple.com/*/podcast/*/id*
-// @license  Apache-2.0
+// @name Apple Podcasts URLs
+// @description Extract and copy all episode URLs from Apple Podcasts to clipboard for pasting into yt-dlp
+// @match https://podcasts.apple.com/*/podcast/*/id*
+// @license Apache-2.0
 // ==/UserScript==
 
 // Select the node that will be observed for mutations
